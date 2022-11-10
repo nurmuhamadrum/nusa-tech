@@ -48,8 +48,8 @@ Wait till the web application is running in your browser on this http://localhos
 
 ## Screenshots
 
-<img src="docs/result-1.png" width="80%" />
-<img src="docs/result-2.png" width="80%" />
+<img src="docs/screenshot/result-1.png" width="80%" />
+<img src="docs/screenshot/result-2.png" width="80%" />
 
 ## Built With
 
